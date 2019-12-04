@@ -8,5 +8,6 @@ export default () => (
     <Header headerText="Hello Gatsby!" />
     <p>What a world.</p>
     <img src="https://source.unsplash.com/random/400x200" alt="" />
+    <img src="https://tom.imgix.net/izzy_sharks.jpg?w=400&auto=format" alt="" />
   </div>
 )
